@@ -1,10 +1,11 @@
 {
-  "name": "fcc-api-projects-boilerplate",
-  "version": "0.0.1",
-  "description": "An FCC Backend Challenge",
+  "name": "TimeStampFreeCodeCampEx",
+  "version": "1.0.0",
+  "description": "An FCC Backend Challenge Completed",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "express": "^4.12.4",
@@ -12,17 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/Daniel60/TimeStampFreeCodeCampEx.git"
   },
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "homepage": "https://github.com/Daniel60/TimeStampFreeCodeCampEx.git#readme",
+  "author": "Dangelo",
   "keywords": [
     "node",
     "express",
-    "freeCodeCamp"
+    "freeCodeCamp",
+    "challenge",
+    "completed"
   ],
   "license": "MIT"
 }
